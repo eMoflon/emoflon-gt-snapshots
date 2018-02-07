@@ -1,8 +1,10 @@
 # eMoflon GT Snapshot Repository
 
-## Snapshots of the pattern language are available via the following update site: https://github.com/eMoflon/emoflon-gt-snapshots/raw/master/emoflon-gt-ui-pattern/updatesite
+## Snapshots of the pattern language 
 
-Use the following dependency for your Tycho builds:
+Update site: https://github.com/eMoflon/emoflon-gt-snapshots/raw/master/emoflon-gt-ui-pattern/updatesite
+
+Tycho build dependency for *pom.xml*:
 
 ```
   <repositories>
